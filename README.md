@@ -4,8 +4,12 @@ ProcessWire module that adds a file manager and code editor to the admin.
 Browse, create, edit, rename, and delete files in `/site/templates/`
 (and optionally `/site/modules/`) without leaving the browser.
 
-**Author:** [Maxim Semenov](https://smnv.org)  
 **Repository:** [github.com/mxmsmnv/Editor](https://github.com/mxmsmnv/Editor)  
+
+**Author:** Maxim Semenov  
+**Website:** [smnv.org](https://smnv.org)  
+**Email:** [maxim@smnv.org](mailto:maxim@smnv.org)
+
 If this project helps your work, consider supporting future development: [GitHub Sponsors](https://github.com/sponsors/mxmsmnv) or [smnv.org/sponsor](https://smnv.org/sponsor/).  
 **License:** MIT
 

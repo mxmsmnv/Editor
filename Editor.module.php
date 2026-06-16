@@ -7,7 +7,7 @@
  * Allows superusers to browse, create, edit and delete files
  * in /site/templates/ and optionally /site/modules/.
  *
- * @author  Maxim Semenov <maxim@smnv.org>
+ * @author  Maxim Semenov <maxim@smnv.org> (smnv.org)
  * @link    https://smnv.org
  * @link    https://github.com/mxmsmnv/Editor
  * @copyright 2026 smnv.org
@@ -31,7 +31,7 @@ class Editor extends Process implements Module, ConfigurableModule {
 			'version'  => 120,
 			'summary'  => 'Browse and edit template files directly from the admin.',
 			'author'   => 'Maxim Semenov',
-			'href'     => 'https://github.com/mxmsmnv/Editor',
+			'href'     => 'https://smnv.org',
 			'icon'     => 'code',
 			'requires' => ['ProcessWire>=3.0.0', 'PHP>=8.2'],
 			'permission' => 'editor',
