@@ -6,6 +6,8 @@ Browse, create, edit, rename, and delete files in `/site/templates/`
 
 **Repository:** [github.com/mxmsmnv/Editor](https://github.com/mxmsmnv/Editor)  
 
+![Editor](assets/Editor.png)
+
 **Author:** Maxim Semenov  
 **Website:** [smnv.org](https://smnv.org)  
 **Email:** [maxim@smnv.org](mailto:maxim@smnv.org)
